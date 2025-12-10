@@ -1,0 +1,18 @@
+name: gmp-packaging-risk-analytics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - polars
+  - pyarrow
+  - duckdb
+  - fastapi
+  - uvicorn
+  - pydantic
+  - python-dotenv
+  - rich
+  - pip:
+      - httpx
