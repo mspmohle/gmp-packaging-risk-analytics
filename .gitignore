@@ -1,0 +1,21 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local data (synthetic IIoT raw/interim/results)
+data/
+
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Virtual envs (if created inside repo)
+.env
+venv/
+.venv/
+env/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
