@@ -1,21 +1,18 @@
-# Jupyter checkpoints
+cat >> .gitignore <<'EOF'
+
+# --- Data (keep out of git) ---
+data/raw/
+data/interim/
+data/processed/
+
+# --- Model artifacts / large binaries ---
+*.parquet
+*.joblib
+*.npy
+
+# --- Notebook junk ---
 .ipynb_checkpoints/
-
-# Local data (synthetic IIoT raw/interim/results)
-data/
-
-# Python bytecode/cache
 __pycache__/
-*.py[cod]
+*.pyc
 
-# Virtual envs (if created inside repo)
-.env
-venv/
-.venv/
-env/
-
-# OS/editor noise
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
+EOF
