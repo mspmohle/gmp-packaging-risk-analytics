@@ -1,18 +1,13 @@
-cat >> .gitignore <<'EOF'
-
 # --- Data (keep out of git) ---
-data/raw/
-data/interim/
-data/processed/
+data/
 
 # --- Model artifacts / large binaries ---
 *.parquet
 *.joblib
 *.npy
+*.npz
 
 # --- Notebook junk ---
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-
-EOF
