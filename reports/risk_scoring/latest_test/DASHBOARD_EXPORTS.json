@@ -1,0 +1,23 @@
+{
+  "export_run_id": "20251220T223649Z",
+  "created_utc": "2025-12-20T22:36:49.011693+00:00",
+  "panel_run_dir": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/feature_engineering/20251220T211621Z",
+  "exports": {
+    "panel_asset_day_scores_test.csv": "panel_asset_day_scores_test.csv",
+    "panel_alerts_top5_assets_per_day_test.csv": "panel_alerts_top5_assets_per_day_test.csv",
+    "panel_daily_rollup_test.csv": "panel_daily_rollup_test.csv",
+    "panel_alert_budget_top5_metrics_test.json": "panel_alert_budget_top5_metrics_test.json",
+    "panel_site_day_rollup_test.csv": "panel_site_day_rollup_test.csv",
+    "panel_line_day_rollup_test.csv": "panel_line_day_rollup_test.csv",
+    "dashboard_alert_queue_latest_day_test_csv": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/dashboard_alert_queue_latest_day_test.csv",
+    "dashboard_top_sites_latest_day_test_csv": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/dashboard_top_sites_latest_day_test.csv",
+    "dashboard_top_lines_latest_day_test_csv": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/dashboard_top_lines_latest_day_test.csv",
+    "dashboard_daily_trend_last14_test_csv": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/dashboard_daily_trend_last14_test.csv",
+    "dashboard_kpis_test_json": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/dashboard_kpis_test.json",
+    "fig_daily_risk_trend_test_png": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/figures/daily_risk_trend_test.png",
+    "fig_daily_positive_hours_test_png": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/figures/daily_positive_hours_test.png",
+    "fig_alert_queue_latest_day_test_png": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/figures/alert_queue_latest_day_test.png",
+    "fig_top_sites_latest_day_test_png": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/figures/top_sites_latest_day_test.png",
+    "dashboard_bundle_test_zip": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z/dashboard_bundle_test.zip"
+  }
+}

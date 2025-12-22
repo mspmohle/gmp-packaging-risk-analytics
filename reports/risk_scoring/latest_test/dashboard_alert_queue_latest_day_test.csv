@@ -1,0 +1,6 @@
+date_utc,asset_id,ts_peak,p_hat,y_asset_day,site_id,line_id,asset_type,is_legacy,why_push_to_1,why_push_to_0
+2025-12-11,A0011,2025-12-11 00:00:00+00:00,0.2973698970291007,0,S1,S1-L3,vision_inspection,False,is_weekend_utc(+0.314); asset_type_vision_inspection(+0.300); telemetry_rows_hour(+0.173),is_legacy(-0.683); dow_utc_cos(-0.508); site_id_S1(-0.332)
+2025-12-11,A0032,2025-12-11 00:00:00+00:00,0.2754969290997772,0,S4,S4-L3,vision_inspection,False,line_speed_u_min_tele_mean(+0.452); is_weekend_utc(+0.314); asset_type_vision_inspection(+0.300),is_legacy(-0.683); dow_utc_cos(-0.508); line_id_S4-L3(-0.285)
+2025-12-11,A0065,2025-12-11 00:00:00+00:00,0.2517671552234065,0,S3,S3-L5,labeler,False,line_id_S3-L5(+0.553); is_weekend_utc(+0.314); telemetry_rows_hour(+0.186),is_legacy(-0.683); dow_utc_cos(-0.508); asset_type_labeler(-0.409)
+2025-12-11,A0108,2025-12-11 00:00:00+00:00,0.2506309328032129,0,S1,S1-L4,cartoner,False,is_weekend_utc(+0.314); asset_type_cartoner(+0.266); telemetry_rows_hour(+0.159),is_legacy(-0.683); dow_utc_cos(-0.508); site_id_S1(-0.332)
+2025-12-11,A0012,2025-12-11 00:00:00+00:00,0.1636099406238363,0,S4,S4-L3,weigh_check,False,is_weekend_utc(+0.314); telemetry_rows_hour(+0.173); line_speed_u_min_tele_max(+0.108),is_legacy(-0.683); dow_utc_cos(-0.508); asset_type_weigh_check(-0.411)
