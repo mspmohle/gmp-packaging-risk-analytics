@@ -1,5 +1,5 @@
 {
-  "export_run_id": "20251220T223649Z",
+  "export_run_id": "20251223T204040Z",
   "panel_run_dir": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/feature_engineering/20251220T211621Z",
   "scope": "TEST",
   "date_min_utc": "2025-11-27",
@@ -9,7 +9,8 @@
   "alerts_budget": {
     "policy": "top_k_assets_per_day",
     "k_assets_per_day": 5,
-    "precision_at_k_asset_day": null,
-    "note": "precision@K computed on asset-day label y_asset_day=max(y_true) over hours for that asset on that UTC date (TEST only)."
+    "precision_at_k_asset_day": 0.4,
+    "note": "precision@K computed on asset-day label y_asset_day=max(y_true) over hours for that asset on that UTC date (TEST only).",
+    "updated_utc": "2025-12-23T20:41:10.887150+00:00"
   }
 }

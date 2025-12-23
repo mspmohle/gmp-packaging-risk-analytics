@@ -1,8 +1,8 @@
 {
   "risk_scoring": {
     "latest_test": {
-      "run_id": "20251220T223649Z",
-      "export_dir": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251220T223649Z",
+      "run_id": "20251223T204040Z",
+      "export_dir": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/20251223T204040Z",
       "published_dir": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/latest_test",
       "files": {
         "dashboard_alert_queue_latest_day_test.csv": "/home/parallels/projects/gmp-packaging-risk-analytics/data/processed/risk_scoring/latest_test/dashboard_alert_queue_latest_day_test.csv",
@@ -22,7 +22,7 @@
       "report_md": "reports/risk_scoring/latest_test/DASHBOARD_REPORT_TEST.md",
       "reports_index_md": "reports/risk_scoring/latest_test/README.md",
       "latest_published_dir": "data/processed/risk_scoring/latest_test",
-      "updated_utc": "2025-12-22T21:14:02.258964+00:00"
+      "updated_utc": "2025-12-23T20:41:46.178593+00:00"
     }
   }
 }
