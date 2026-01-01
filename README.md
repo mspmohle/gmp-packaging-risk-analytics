@@ -102,8 +102,6 @@ Run each notebook **top-to-bottom**:
 - `03_risk_scoring_and_dashboard_exports.ipynb`
 
 ### 3) Verify exports were published
-
-bash
 ls -lah EXPORTS.json
 ls -lah data/processed/risk_scoring/latest_test | head
 
