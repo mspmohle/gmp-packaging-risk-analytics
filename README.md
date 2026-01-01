@@ -1,5 +1,3 @@
-In progress
-
 # GMP Packaging Risk Analytics
 
 A portfolio-grade, end-to-end analytics pipeline that simulates (and can later ingest) GMP packaging process signals, engineers risk features + labels, produces **dashboard-ready risk scoring exports**, and serves the latest results through a lightweight **FastAPI** service.
