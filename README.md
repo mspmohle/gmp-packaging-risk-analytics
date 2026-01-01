@@ -87,7 +87,7 @@ The API layer exposes these artifacts through stable endpoints so a dashboard or
 
 ### 1) Create/update the environment (conda)
 
-```bash
+bash
 conda env create -f environment.yml -n gmp-packaging-risk-analytics || conda env update -f environment.yml -n gmp-packaging-risk-analytics
 conda activate gmp-packaging-risk-analytics
 python -V
@@ -103,7 +103,7 @@ Run each notebook **top-to-bottom**:
 
 ### 3) Verify exports were published
 
-```bash
+bash
 ls -lah EXPORTS.json
 ls -lah data/processed/risk_scoring/latest_test | head
 
