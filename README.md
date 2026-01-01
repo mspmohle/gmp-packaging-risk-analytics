@@ -76,7 +76,7 @@ The API layer exposes these artifacts through stable endpoints so a dashboard or
     └── app/
         ├── __init__.py
         └── main.py                   # FastAPI app serving latest exports
-
+```
 ### Notes on version control
 
 - Large generated artifacts and run outputs under `data/processed/**` are intentionally not committed.
